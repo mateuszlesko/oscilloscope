@@ -1,0 +1,2 @@
+Wartość średnia: 56,91539 Wariancja: 165,269372958883 
+ .Okres: 0,4761905 
